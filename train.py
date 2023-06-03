@@ -23,7 +23,7 @@ dir_img = Path('data/imgs/')
 dir_mask = Path('data/masks/')
 dir_checkpoint = Path('./checkpoints/')
 
-
+# Leta's version
 def train_model(
         model,
         device,
